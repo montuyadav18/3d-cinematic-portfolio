@@ -1,8 +1,8 @@
-# Syed Hassan Dildar - 3D Portfolio Website
+# Montu Rudal Yadav - 3D Portfolio Website
 
 This repository contains the source code for my personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a 3D character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-Live site: [https://hxnix-gold.vercel.app/](https://hxnix-gold.vercel.app/)
+Live site: [https://montu-yadav-dev.vercel.app/](https://montu-yadav-dev.vercel.app/)
 
 ![Portfolio Preview](./public/images/preview.png)
 

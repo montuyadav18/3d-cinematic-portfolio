@@ -8,8 +8,8 @@ const projects = [
     category: "Immersive Three.js Portfolio Experience",
     tools: "React, Three.js, R3F, GSAP, TypeScript",
     image:
-      "https://raw.githubusercontent.com/Hxni786/3d-portfolio-main/main/public/images/preview.png",
-    link: "https://hxnix-gold.vercel.app/",
+      "https://raw.githubusercontent.com/montuyadav18/3d-cinematic-portfolio/refs/heads/main/public/images/preview.png",
+    link: "https://montu-yadav-dev.vercel.app/",
     accent: "#5eead4",
   },
   {
@@ -17,8 +17,8 @@ const projects = [
     category: "Full-Stack Boutique E-commerce Platform",
     tools: "React, Node.js, Express, MySQL, Tailwind",
     image:
-      "https://raw.githubusercontent.com/Hxni786/Hxni-Ecommerce-Store/main/screenshot_home.png",
-    link: "https://github.com/Hxni786/Hxni-Ecommerce-Store",
+      "https://raw.githubusercontent.com/montuyadav18/My-Ecommerce-Store/refs/heads/main/screenshot_home.png",
+    link: "https://github.com/montuyadav18/My-Ecommerce-Store",
     accent: "#a78bfa",
   },
   {

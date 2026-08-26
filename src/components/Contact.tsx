@@ -11,28 +11,28 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400"
+     href="https://www.linkedin.com/in/montuyadav/"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
               >
-                LinkedIn — syed-hassan-dildar
+                LinkedIn — montu-rudal-yadav
               </a>
             </p>
             <p>
-              <a href="mailto:msgoat550@gmail.com" data-cursor="disable">
-                Email — msgoat550@gmail.com
+              <a href="mailto:montuyadav1801@gmail.com" data-cursor="disable">
+                Email — montuyadav1801@gmail.com
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              Computer Science (Web & App Development), Abasyn University — 2024–2028
+              Bachelor of Science in Information Technology (Web & App Development), Mumbai University — 2021–2024
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/Hxni786"
+              href="https://github.com/montuyadav18"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -41,7 +41,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400"
+              href="https://www.linkedin.com/in/montuyadav/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -50,7 +50,7 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/hxniii_syed?igsh=MWJsY2FmYW1na3Nubw=="
+              href="https://www.instagram.com/lts.starboy/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -61,7 +61,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Syed Hassan Dildar</span>
+              Designed and Developed <br /> by <span>Montu Rudal Yadav</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

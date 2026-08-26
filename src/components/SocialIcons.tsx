@@ -60,7 +60,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/Hxni786"
+            href="https://github.com/montuyadav18"
             target="_blank"
             rel="noreferrer"
           >
@@ -69,7 +69,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400"
+            href="https://www.linkedin.com/in/montuyadav/"
             target="_blank"
             rel="noreferrer"
           >
@@ -78,7 +78,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/hxniii_syed?igsh=MWJsY2FmYW1na3Nubw=="
+            href="https://www.instagram.com/lts.starboy/"
             target="_blank"
             rel="noreferrer"
           >
@@ -88,7 +88,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400"
+        href="https://www.linkedin.com/in/montuyadav/"
         target="_blank"
         rel="noreferrer"
       >

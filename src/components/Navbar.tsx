@@ -52,18 +52,18 @@ const Navbar = () => {
     <>
       <div className="header">
         <a href="/#" className="navbar-title" data-cursor="disable">
-          SH
+          MY
         </a>
         <a
-          href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400"
+          href="https://www.linkedin.com/in/montu-yadav-3b59b9310?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
           rel="noreferrer"
         >
-          linkedin.com/in/syed-hassan-dildar
+          linkedin.com/in/montuyadav
         </a>
-        <ul>
+        <ul> 
           <li>
             <a data-href="#about" href="#about">
               <HoverLinks text="ABOUT" />
