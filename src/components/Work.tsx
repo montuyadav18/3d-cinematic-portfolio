@@ -40,7 +40,7 @@ const projects = [
     accent: "#fbbf24",
   },
   {
-    title: "NIXH Social",
+    title: "MRY Social",
     category: "Enterprise Multi-User Directory & Social Engine",
     tools: "React Native, Firebase, Node.js, REST API",
     image:
@@ -67,7 +67,7 @@ const projects = [
     accent: "#ef4444",
   },
   {
-    title: "Nixh Food 2.0",
+    title: "MRY Food 2.0",
     category: "Scalable Order Tracking & Delivery Ecosystem",
     tools: "React Native, Node.js, Express, REST API",
     image:
